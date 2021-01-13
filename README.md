@@ -23,5 +23,5 @@
 
 ## KAYNAK
 
-[https://github.com/Gogul09/emotion-recognizer](https://github.com/Gogul09/emotion-recognizer)
+- [https://github.com/Gogul09/emotion-recognizer](https://github.com/Gogul09/emotion-recognizer)
 
